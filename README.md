@@ -2,7 +2,15 @@
 
 A responsive web application showcasing all Valorant agents and their abilities with a sleek, game-inspired design.
 
-![Valorant Agents Gallery Preview](https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt26e1ed5103af52b4/64e685f26d3f9410b3341e11/090723_Val_EP7A2_PlayVALORANT_ContentUpdate_Banner.jpg)
+## App Preview
+
+<div align="center">
+  <h3>Hero</h3>
+  <img src="https://github.com/Ahmedismail97/valorant-agents/issues/3#issue-2744931253" alt="Hero" width="800"/>
+  
+  <h3>Agents Gallery</h3>
+  <img src="https://github.com/Ahmedismail97/valorant-agents/issues/2#issue-2744927649" alt="Agents Gallery" width="800"/>
+</div>
 
 ## Features
 
