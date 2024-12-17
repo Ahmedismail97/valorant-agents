@@ -5,11 +5,11 @@ A responsive web application showcasing all Valorant agents and their abilities 
 ## App Preview
 
 <div align="center">
-  <h3>Hero</h3>
-  <img src="https://github.com/Ahmedismail97/valorant-agents/issues/3#issue-2744931253" alt="Hero" width="800"/>
+  <h3>Hero Section</h3>
+  <img src="https://private-user-images.githubusercontent.com/48957052/396512639-bf1fd981-41eb-4df0-bb31-9bafd10bb6f3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ0NDIxMzEsIm5iZiI6MTczNDQ0MTgzMSwicGF0aCI6Ii80ODk1NzA1Mi8zOTY1MTI2MzktYmYxZmQ5ODEtNDFlYi00ZGYwLWJiMzEtOWJhZmQxMGJiNmYzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE3VDEzMjM1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBiYzk5MmVkM2IwNmU5NjY2OTIxNDlhOWMxZDI0ODhiNTE0YmQxZmM2MmMwYmM1YTdmOTRiNTRhOWY2YWM5YTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RuRM61-2x-o2utq45v6GcnFy4yt-yr6UY0iXFMlRTq4" alt="Hero Section" width="800"/>
   
   <h3>Agents Gallery</h3>
-  <img src="https://github.com/Ahmedismail97/valorant-agents/issues/2#issue-2744927649" alt="Agents Gallery" width="800"/>
+  <img src="https://private-user-images.githubusercontent.com/48957052/396512220-b5e5a2f2-8d50-48c4-a25d-0f5151ee4223.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ0NDIyMDIsIm5iZiI6MTczNDQ0MTkwMiwicGF0aCI6Ii80ODk1NzA1Mi8zOTY1MTIyMjAtYjVlNWEyZjItOGQ1MC00OGM0LWEyNWQtMGY1MTUxZWU0MjIzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE3VDEzMjUwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI2NWE1YmQwOWVlZmMzZTM4NTk2ODAzOTA0M2Q1ZjAzOTM4ZTVlNDJmMjUyNzVlZjdiNjBiNzRkNDAwMGRmNWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YBg1HbIJmNThUwPuOvwhvdpXpP4AC5bQ5ygi48_HMgQ" alt="Agents Gallery" width="800"/>
 </div>
 
 ## Features
